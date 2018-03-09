@@ -1,0 +1,6 @@
+projectKey=COREJAVA
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/COREJAVA
+ceTaskId=AWHV7_FQtNXAlTx4YYPt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWHV7_FQtNXAlTx4YYPt
